@@ -1,0 +1,14 @@
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.exe
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.deps.json
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.runtimeconfig.json
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.dll
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\bin\Debug\net8.0\Modularizacion.pdb
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfoInputs.cache
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfo.cs
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.csproj.CoreCompileInputs.cache
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.dll
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\refint\Modularizacion.dll
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.pdb
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\Modularizacion.genruntimeconfig.cache
+C:\Users\al3j4\OneDrive\Documents\Plantillas personalizadas de Office\Tareas\UMG\3er Semestre\Progra 1\Modularizacion\Modularizacion\obj\Debug\net8.0\ref\Modularizacion.dll
